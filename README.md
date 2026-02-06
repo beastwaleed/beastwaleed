@@ -61,7 +61,7 @@
 <a href="https://instagram.com/thewaleedafzal" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://waleedafzal.netlify.app/" target="_blank">
+<a href="https://waleedafzal.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
