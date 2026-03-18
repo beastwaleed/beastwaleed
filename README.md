@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+<img align="center" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beastwaleed&show_icons=true&locale=en&layout=compact" alt="beastwaleed" /></p>
