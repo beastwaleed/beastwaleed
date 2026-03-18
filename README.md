@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastwaleed&label=Profile%20views&color=0e75b6&style=flat" alt="beastwaleed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beastwaleed" alt="beastwaleed" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://waleedafzal.vercel.app/](https://waleedafzal.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://waleedafzal.vercel.app/)
 
 - 💬 Ask me about **Wordpress, C/C++, SQL, Javascript, React, Next, Node, MongoDB**
 
 - 📫 How to reach me **waleedafzalshaikh@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/digiwaleed](www.linkedin.com/in/digiwaleed)
+- 📄 Know about my experiences [on LinkedIn](www.linkedin.com/in/digiwaleed)
 
 - ⚡ Fun fact **I love touching grass**
 
@@ -25,6 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beastwaleed&show_icons=true&locale=en&layout=compact" alt="beastwaleed" /></p>
