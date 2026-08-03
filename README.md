@@ -135,8 +135,6 @@ AI-powered thumbnail generator with cloud storage and multi-model image generati
 <img src="https://raw.githubusercontent.com/beastwaleed/beastwaleed/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> **This won't render until you add the workflow below** — the image points to an `output` branch that only exists once the Action below has run at least once (takes a couple minutes after your first push).
-
 ---
 
 ### 🔗 Connect with Me
