@@ -118,12 +118,14 @@ AI-powered thumbnail generator with cloud storage and multi-model image generati
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=beastwaleed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastwaleed&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=beastwaleed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastwaleed&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beastwaleed&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=beastwaleed&theme=tokyonight&hide_border=true" />
 
 </div>
+
+> **If a card still shows broken:** these are shared public APIs and get rate-limited during high-traffic periods — it's not your markdown. It usually self-heals within a few hours. If it stays broken, the permanent fix is deploying your own free instance on Vercel ([github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)) and swapping the domain in the URLs above for yours.
 
 ---
 
@@ -133,7 +135,7 @@ AI-powered thumbnail generator with cloud storage and multi-model image generati
 <img src="https://raw.githubusercontent.com/beastwaleed/beastwaleed/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> Needs a one-time GitHub Actions workflow (`platane/snk`) to generate — say the word and I'll write it for you.
+> **This won't render until you add the workflow below** — the image points to an `output` branch that only exists once the Action below has run at least once (takes a couple minutes after your first push).
 
 ---
 
